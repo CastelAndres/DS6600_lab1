@@ -7,10 +7,10 @@ What would have happened if no license was chosen?
 If I didnt not to choose a license, then the deafault copyright laws would automatically apply. Which would mean that no one would be able to legally use, distribute, copy, or even modify my code without my persmission. This would be the opposite of my intent since I want to foster collaboration and open source.
 
 # Environments
-.envrc
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+- .envrc
+- .venv
+- env/
+- venv/
+- ENV/
+- env.bak/
+- venv.bak/
